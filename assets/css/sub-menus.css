@@ -1,0 +1,12 @@
+#ncwm-woocommerce-migration .ncwm-subs-field {
+    padding: 10px;
+    background: #f5f5f5;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#ncwm-woocommerce-migration ul, #ncwm-woocommerce-migration li {
+    list-style: disc;
+    list-style-position: inside;
+}
